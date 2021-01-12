@@ -11,7 +11,7 @@ numpy = "^1.19.5"
 statsmodels = "^0.12.1"
 networkx = "^2.5"
 matplotlib = "^3.3.3"
-cvxopt = "1.2.5"
+cvxopt = "1.2.5.post1"
 
 [tool.poetry.dev-dependencies]
 black = "^20.8b1"
