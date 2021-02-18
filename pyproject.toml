@@ -6,7 +6,7 @@ authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-scipy = "^1.6.0"
+scipy = "^1.6.1"
 numpy = "^1.19.5"
 statsmodels = "^0.12.1"
 networkx = "^2.5"
